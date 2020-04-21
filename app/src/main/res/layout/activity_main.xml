@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#2186C8"/>
+
+            <ImageView
+                android:id="@+id/mainatas"
+                android:layout_width="match_parent"
+                android:layout_height="1066dp"
+                android:src="@drawable/homemain" />
+
+            <TextView
+                android:id="@+id/positif"
+                android:layout_width="wrap_content"
+                android:layout_height="84dp"
+                android:layout_alignStart="@+id/mainatas"
+                android:layout_alignLeft="@+id/mainatas"
+                android:layout_alignTop="@+id/mainatas"
+                android:layout_alignEnd="@+id/mainatas"
+                android:layout_alignRight="@+id/mainatas"
+                android:layout_alignBottom="@+id/mainatas"
+                android:layout_centerInParent="true"
+                android:layout_marginStart="147dp"
+                android:layout_marginLeft="147dp"
+                android:layout_marginTop="349dp"
+                android:layout_marginEnd="69dp"
+                android:layout_marginRight="69dp"
+                android:layout_marginBottom="633dp"
+                android:fontFamily="@font/engr"
+                android:text="----"
+                android:textAlignment="center"
+                android:textColor="@color/positif"
+                android:textSize="40dp" />
+
+            <TextView
+                android:id="@+id/sembuh"
+                android:layout_width="wrap_content"
+                android:layout_height="81dp"
+                android:layout_alignStart="@+id/mainatas"
+                android:layout_alignLeft="@+id/mainatas"
+                android:layout_alignTop="@+id/mainatas"
+                android:layout_alignEnd="@+id/mainatas"
+                android:layout_alignRight="@+id/mainatas"
+                android:layout_alignBottom="@+id/mainatas"
+                android:layout_centerInParent="true"
+                android:layout_marginStart="147dp"
+                android:layout_marginLeft="147dp"
+                android:layout_marginTop="497dp"
+                android:layout_marginEnd="69dp"
+                android:layout_marginRight="69dp"
+                android:layout_marginBottom="488dp"
+                android:fontFamily="@font/engr"
+                android:text="----"
+                android:textAlignment="center"
+                android:textColor="@color/sembuh"
+                android:textSize="40dp" />
+
+            <TextView
+                android:id="@+id/meninggal"
+                android:layout_width="wrap_content"
+                android:layout_height="71dp"
+                android:layout_alignStart="@+id/mainatas"
+                android:layout_alignLeft="@+id/mainatas"
+                android:layout_alignTop="@+id/mainatas"
+                android:layout_alignEnd="@+id/mainatas"
+                android:layout_alignRight="@+id/mainatas"
+                android:layout_alignBottom="@+id/mainatas"
+                android:layout_centerInParent="true"
+                android:layout_marginStart="150dp"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="644dp"
+                android:layout_marginEnd="66dp"
+                android:layout_marginRight="66dp"
+                android:layout_marginBottom="351dp"
+                android:fontFamily="@font/engr"
+                android:text="----"
+                android:textAlignment="center"
+                android:textColor="@color/mati"
+                android:textSize="40dp" />
+
+            <ImageView
+                android:id="@+id/pindahprovinsi"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_alignTop="@+id/mainatas"
+                android:layout_alignEnd="@+id/mainatas"
+                android:layout_alignRight="@+id/mainatas"
+                android:layout_alignBottom="@+id/mainatas"
+                android:layout_marginTop="761dp"
+                android:layout_marginEnd="71dp"
+                android:layout_marginRight="71dp"
+                android:layout_marginBottom="229dp"
+                android:src="@drawable/benderaindonesia" />
+
+            <ImageView
+                android:id="@+id/pindahnegara"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_alignTop="@+id/mainatas"
+                android:layout_alignEnd="@+id/mainatas"
+                android:layout_alignRight="@+id/mainatas"
+                android:layout_alignBottom="@+id/mainatas"
+                android:layout_marginTop="768dp"
+                android:layout_marginEnd="263dp"
+                android:layout_marginRight="263dp"
+                android:layout_marginBottom="235dp"
+                android:src="@drawable/dunia" />
+
+            <ImageView
+                android:id="@+id/pindahgejala"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_alignTop="@+id/mainatas"
+                android:layout_alignEnd="@+id/mainatas"
+                android:layout_alignRight="@+id/mainatas"
+                android:layout_alignBottom="@+id/mainatas"
+                android:layout_marginTop="927dp"
+                android:layout_marginEnd="262dp"
+                android:layout_marginRight="262dp"
+                android:layout_marginBottom="76dp"
+                android:src="@drawable/gambarpenanganan" />
+
+            <ImageView
+                android:id="@+id/pindahpencegahan"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_alignTop="@+id/mainatas"
+                android:layout_alignEnd="@+id/mainatas"
+                android:layout_alignRight="@+id/mainatas"
+                android:layout_alignBottom="@+id/mainatas"
+                android:layout_marginTop="920dp"
+                android:layout_marginEnd="72dp"
+                android:layout_marginRight="72dp"
+                android:layout_marginBottom="70dp"
+                android:src="@drawable/gambarpencegahan" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InfoCovid</string>
+    <string name="tentangcovid">About Covid</string>
+    <string name="article_text">
+        <p>
+            Pandemi koronavirus 2019-20 adalah pandemi penyakit
+            coronavirus yang sedang berlangsung 2019 (COVID-19),
+            yang disebabkan oleh sindrom pernafasan akut yang
+            parah coronavirus 2 (SARS-CoV-2). Wabah ini pertama kali
+            diidentifikasi di Wuhan , Provinsi Hubei , Cina ,
+            pada Desember 2019. Organisasi Kesehatan Dunia (WHO)
+            menyatakan wabah itu sebagai Kesehatan Masyarakat
+            Darurat dari Kepedulian Internasional pada 30 Januari
+            2020 dan mengakuinya sebagai pandemi pada 11 Maret
+            2020. Pada 1 April 2020, lebih dari 857.000 kasus
+            COVID-19 telah dilaporkan di lebih dari 200 negara
+            dan wilayah, yang mengakibatkan sekitar 42.000
+            kematian. Lebih dari 178.000 orang telah pulih.
+        </p>
+        <p>
+            Virus ini terutama menyebar selama kontak dekat dan oleh tetesan pernapasan yang dihasilkan ketika orang batuk atau bersin. Tetesan pernapasan mungkin dihasilkan selama bernafas tetapi virus umumnya tidak mengudara . Orang juga dapat menangkap COVID-19 dengan menyentuh permukaan yang terkontaminasi dan kemudian wajah mereka. Paling menular saat orang bergejala, meskipun penyebaran mungkin terjadi sebelum gejala muncul. Waktu antara paparan dan onset gejala biasanya sekitar lima hari, tetapi dapat berkisar dari 2   hingga 14 hari. Gejala umum termasuk demam, batuk, dan sesak napas . Komplikasi mungkin termasuk pneumonia dan sindrom gangguan pernapasan akut .  Tidak ada vaksin yang diketahui atau pengobatan antivirus khusus. Pengobatan primer adalah terapi simtomatik dan suportif . Tindakan pencegahan yang disarankan termasuk mencuci tangan, menutup mulut saat batuk, menjaga jarak dari orang lain , dan memantau dan mengisolasi diri bagi orang yang mencurigai dirinya terinfeksi.
+        </p>
+        <p>
+            Upaya untuk mencegah penyebaran virus termasuk pembatasan perjalanan , karantina , jam malam , pengendalian bahaya di tempat kerja , penundaan dan pembatalan acara, dan penutupan fasilitas. Ini termasuk karantina Hubei , karantina nasional atau regional di tempat lain di dunia, tindakan jam malam di Cina dan Korea Selatan , berbagai penutupan perbatasan atau pembatasan penumpang yang masuk, penyaringan di bandara dan stasiun kereta api, dan larangan perjalanan penumpang yang keluar.
+        </p>
+        <p>
+            Pandemi telah menyebabkan gangguan sosial ekonomi global yang parah, penundaan atau pembatalan acara olahraga, agama, dan budaya , dan kekhawatiran yang meluas akan kekurangan pasokan yang mengakibatkan pembelian panik . Sekolah dan universitas telah ditutup baik secara nasional atau lokal di lebih dari 160 negara, yang memengaruhi lebih dari 1,5 miliar siswa. Teori informasi dan konspirasi yang keliru tentang virus telah menyebar secara online dan telah terjadi insiden xenophobia dan rasisme terhadap orang Cina dan orang-orang Asia Timur dan Tenggara lainnya.
+        </p>
+
+    </string>
+    <string name="title_activity_menu">menu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_utama">utama</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFF</color>
+    <color name="gelap">#39465D</color>
+    <color name="agakgelap">#39465D</color>
+    <color name="orange">#E79B79</color>
+    <color name="agakbiru">#586385</color>
+    <color name="backgroundatas">#2555E5</color>
+    <color name="penutupputih">#0a5399</color>
+    <color name="positif">#FEB577</color>
+    <color name="sembuh">#0DD45B</color>
+    <color name="mati">#FD5B5A</color>
+    <color name="kuning">#FFFF00</color>
+</resources>
